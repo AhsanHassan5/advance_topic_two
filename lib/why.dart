@@ -1,5 +1,12 @@
 class Why {
   void hehe(){
-  print('heyyyyy');
+  print('heyyyy');
+  print('hellloooo');
+  print('hellla');
+  }
+  void ho(){
+    print('hoooo');
+    print('hooooo');
+    print('hoooooo');
   }
 }
