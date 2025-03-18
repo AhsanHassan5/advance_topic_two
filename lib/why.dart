@@ -4,7 +4,7 @@ class Why {
   print('hellloooo');
   print('hellla');
   }
-  void ho(){
+  void honeyy(){
     print('hoooo');
     print('hooooo');
     print('hoooooo');
